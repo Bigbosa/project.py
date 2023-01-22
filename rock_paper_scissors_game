@@ -1,0 +1,8 @@
+text = input()
+
+if text == "rock":
+    print("paper")
+elif text == "paper":
+    print("scissors")
+elif text == "scissors":
+    print("rock")
