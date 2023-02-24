@@ -1,8 +1,8 @@
-text = input()
+player_1 = input("Player 1:")
 
-if text == "rock":
-    print("paper")
-elif text == "paper":
-    print("scissors")
-elif text == "scissors":
-    print("rock")
+if player_1 == "rock":
+    print("Player 2: paper")
+elif player_1 == "paper":
+    print("Player 2: scissors")
+elif player_1 == "scissors":
+     print("Player 2: rock")
