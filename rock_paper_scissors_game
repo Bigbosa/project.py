@@ -6,3 +6,5 @@ elif player_1 == "paper":
     print("Player 2: scissors")
 elif player_1 == "scissors":
      print("Player 2: rock")
+else:
+    print("Error")
